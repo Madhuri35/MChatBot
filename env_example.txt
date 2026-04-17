@@ -1,0 +1,5 @@
+PG_USER=your_username
+PG_PASS=your_password
+PG_DB=your_database
+PG_HOST=localhost
+PG_PORT=5432
